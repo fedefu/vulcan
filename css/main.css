@@ -770,6 +770,16 @@ body {
   font-size: var(--text-base);
 }
 
+
+  @media only screen and (max-width: 480px) {
+    #hide__button__on__mobile {
+
+display: none;
+
+  }
+}
+
+
 @media (min-width: 1260px) {
   .container {
     max-width: 77rem;
