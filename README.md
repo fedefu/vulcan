@@ -1,5 +1,7 @@
 # Vulcan Coin
 
+![Vulcanheader](header.png)
+
 The environmental, social and energy crises are some of this decade’s major challenges.
 
 The oil and gas that we consume finances war. Faster decarbonization is not only an issue of environment, but also of national security and ethics. At the same time, families struggle to pay energy bills, as costs are propelled by war, growing geopolitical instability and rising inflation.
