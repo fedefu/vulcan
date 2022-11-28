@@ -1,4 +1,4 @@
-# Vulcan Coin
+# About
 
 ![Vulcanheader](header.png)
 
